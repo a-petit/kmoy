@@ -8,6 +8,6 @@ Une analyse des algorithmes et de leur **compléxité** est disponible à l'empl
 
 ## Configuration
 
-Ce projet a été développé dans l'environnement suivant
+Ce projet a été développé dans l'environnement suivant :
 - Système : Ubuntu 
 - Editeur : VIM (w/ NERDTree, vim-slime)
