@@ -1,0 +1,5 @@
+name = "kmoy"
+version = "1.0.0"
+description = "A library dedicated to computing and visualizing k-averages"
+requires = "graphics"
+archive(byte) = "kmoy.cma"
